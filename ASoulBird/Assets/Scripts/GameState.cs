@@ -29,6 +29,7 @@ public class GameState : MonoBehaviour
     }
     public enum G_State
     {
+        None,
         Ready,
         InGame,
         GameOver
